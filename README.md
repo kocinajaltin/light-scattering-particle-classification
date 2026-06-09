@@ -1,4 +1,3 @@
-# light-scattering-particle-classification
 # Particle Classification from PPD-2 Light Scattering Patterns
 
 ## Overview
